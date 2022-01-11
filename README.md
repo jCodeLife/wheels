@@ -1,8 +1,8 @@
 ### 简介
 
-欢迎来到`FE-wheels`，是`front-end wheels`的缩写
+`FE-wheels`是`front-end wheels`的缩写
 
-可以看到用中式英语描述本`Repo`：*day day build wheels*，旨在以轻松的方式造轮子
+用中式英语描述本`Repo`：*day day build wheels*，旨在以轻松的方式造前端轮子
 
 
 
