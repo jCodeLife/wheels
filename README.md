@@ -3,8 +3,9 @@
 ### 一、已完成 ✅
 1. [mini-vue3](https://github.com/jCodeLife/FE-wheels/tree/main/mini-vue3) 
 
-- 从0开始手写实现Vue3初始化流程，实现了createApp、createRenderer、mount、compile等核心方法
-- 实现Vue3的数据响应式，主要实现了reactive等API
+实现功能：
+- 实现初始化流程；包括实现createApp、createRenderer、mount、compile等核心API
+- 实现数据响应式；主要实现了reactive等API
 
 ### 二、有想法要开始造的
 1. mini-vuex（想法）
