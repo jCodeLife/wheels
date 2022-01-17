@@ -1,10 +1,7 @@
 ### 简介
 
-`FE-wheels`是`front-end wheels`的缩写
-
-
 ### 一、已完成 ✅
-1. [mini-vue3 v0.0.1](https://github.com/jCodeLife/FE-wheels/tree/main/mini-vue3) 
+1. [mini-vue3](https://github.com/jCodeLife/FE-wheels/tree/main/mini-vue3) 
 
 ### 二、有想法要开始造的
 1. mini-vuex（想法）
